@@ -6,6 +6,6 @@
   },
   "deploy": {
     "startCommand": "python bot.py",
-    "runtime": "PHYTHON_3_10"
+    "runtime": "PYTHON_3_10"
   }
 }
